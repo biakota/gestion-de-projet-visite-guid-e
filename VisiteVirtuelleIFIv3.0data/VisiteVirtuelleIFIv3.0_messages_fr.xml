@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="fr_project_title"><![CDATA[visiteVirtuelleIFI]]></data>
+  <data name="fr_project_author_name"><![CDATA[Groupe 5]]></data>
+
+
+
+  <data name="fr_pano10_title"><![CDATA[img1]]></data>
+  <data name="fr_spotpoint71_tooltip"><![CDATA[Longer l'allee principale ...]]></data>
+
+
+  <data name="fr_pano21_title"><![CDATA[img2]]></data>
+  <data name="fr_spotpoint68_tooltip"><![CDATA[Longer l'allee principale]]></data>
+  <data name="fr_spotpoint450_tooltip"><![CDATA[Batiment administratif de l'UNVH]]></data>
+
+
+  <data name="fr_pano28_title"><![CDATA[img3]]></data>
+  <data name="fr_spotpoint61_tooltip"><![CDATA[L'allee vers l'universite de droit ...]]></data>
+
+
+  <data name="fr_pano29_title"><![CDATA[img4]]></data>
+  <data name="fr_spotpoint65_tooltip"><![CDATA[L'allee pour aller vers le batimant administratif de l'IFI ...]]></data>
+
+
+  <data name="fr_pano30_title"><![CDATA[img5]]></data>
+  <data name="fr_spotpoint72_tooltip"><![CDATA[L'allee vers le batimant administratif de l'IFI]]></data>
+  <data name="fr_spotpoint453_tooltip"><![CDATA[Universite des sciences et des technologies]]></data>
+
+
+  <data name="fr_pano31_title"><![CDATA[img6]]></data>
+  <data name="fr_spotpoint73_tooltip"><![CDATA[Allee du batimant administratif de l'IFI]]></data>
+
+
+  <data name="fr_pano32_title"><![CDATA[img7]]></data>
+  <data name="fr_spotpoint74_tooltip"><![CDATA[Entree du batimant administratif de l'IFI]]></data>
+  <data name="fr_spotpoint160_tooltip"><![CDATA[Suivez cette direction]]></data>
+
+
+  <data name="fr_pano33_title"><![CDATA[img8]]></data>
+  <data name="fr_spotpoint162_tooltip"><![CDATA[Entree du batimant administratif de l'IFI]]></data>
+
+
+  <data name="fr_pano34_title"><![CDATA[img9]]></data>
+  <data name="fr_spotpoint164_tooltip"><![CDATA[Coulloir menant vers les escaliers du batimant administratif]]></data>
+
+
+  <data name="fr_pano11_title"><![CDATA[img10]]></data>
+  <data name="fr_spotpoint165_tooltip"><![CDATA[Aller a l'administration]]></data>
+
+
+  <data name="fr_pano12_title"><![CDATA[img11]]></data>
+  <data name="fr_spotpoint166_tooltip"><![CDATA[Les locaux adminstratifs]]></data>
+
+
+  <data name="fr_pano13_title"><![CDATA[img12]]></data>
+  <data name="fr_spotpoint167_tooltip"><![CDATA[Sortir de l'administration...]]></data>
+
+
+  <data name="fr_pano14_title"><![CDATA[img13]]></data>
+  <data name="fr_spotpoint168_tooltip"><![CDATA[Aller vers les salles de cours]]></data>
+
+
+  <data name="fr_pano15_title"><![CDATA[img14]]></data>
+  <data name="fr_spotpoint169_tooltip"><![CDATA[Entree vers les salles de cours]]></data>
+
+
+  <data name="fr_pano16_title"><![CDATA[img15]]></data>
+  <data name="fr_spotpoint238_tooltip"><![CDATA[Batiments abritrant les salles de cours]]></data>
+
+
+  <data name="fr_pano17_title"><![CDATA[img16]]></data>
+  <data name="fr_spotpoint239_tooltip"><![CDATA[Escalier menant a la salle de cours...]]></data>
+
+
+  <data name="fr_pano18_title"><![CDATA[img17]]></data>
+  <data name="fr_spotpoint457_tooltip"><![CDATA[Monter les escaliers]]></data>
+
+
+  <data name="fr_pano19_title"><![CDATA[img18]]></data>
+  <data name="fr_spotpoint240_tooltip"><![CDATA[Coninuer jusqu'au 6e niveau]]></data>
+
+
+  <data name="fr_pano20_title"><![CDATA[img19]]></data>
+  <data name="fr_spotpoint241_tooltip"><![CDATA[Hall salles des cours]]></data>
+
+
+  <data name="fr_pano22_title"><![CDATA[img20]]></data>
+
+
+  <data name="fr_pano23_title"><![CDATA[img21]]></data>
+  <data name="fr_spotpoint244_tooltip"><![CDATA[Tableau d'affichage]]></data>
+
+
+  <data name="fr_pano24_title"><![CDATA[img22]]></data>
+
+
+  <data name="fr_pano25_title"><![CDATA[img23]]></data>
+
+
+  <data name="fr_pano26_title"><![CDATA[img24]]></data>
+
+
+  <data name="fr_pano27_title"><![CDATA[img25]]></data>
+  <data name="fr_spotpoint242_tooltip"><![CDATA[Entree des salles de cours]]></data>
+  <data name="fr_spotpoint460_tooltip"><![CDATA[Les toillettes]]></data>
+
+
+	<data name="fr_spotmap449_tooltip"><![CDATA[]]></data>
+
+
+
+
+  <data name="fr_controlBar_iprevSceneTip"><![CDATA[Previous panorama]]></data>
+  <data name="fr_controlBar_inextSceneTip"><![CDATA[Next panorama]]></data>
+  <data name="fr_controlBar_izoomInTip"><![CDATA[Zoom in]]></data>
+  <data name="fr_controlBar_izoomOutTip"><![CDATA[Zoom out]]></data>
+  <data name="fr_controlBar_imoveLeftTip"><![CDATA[Move left]]></data>
+  <data name="fr_controlBar_imoveRightTip"><![CDATA[Move right]]></data>
+  <data name="fr_controlBar_imoveUpTip"><![CDATA[Move up]]></data>
+  <data name="fr_controlBar_imoveDownTip"><![CDATA[Move down]]></data>
+  <data name="fr_controlBar_iopenFsTip"><![CDATA[Enter fullscreen]]></data>
+  <data name="fr_controlBar_icloseFsTip"><![CDATA[Exit fullscreen]]></data>
+  <data name="fr_controlBar_iautorotateOnTip"><![CDATA[Start autorotation]]></data>
+  <data name="fr_controlBar_iautorotateOffTip"><![CDATA[Stop autorotation]]></data>
+  <data name="fr_controlBar_iautotourOnTip"><![CDATA[Start automatic tour]]></data>
+  <data name="fr_controlBar_iautotourOffTip"><![CDATA[Stop automatic tour]]></data>
+  <data name="fr_controlBar_isoundsOnTip"><![CDATA[Start sounds]]></data>
+  <data name="fr_controlBar_isoundsOffTip"><![CDATA[Stop sounds]]></data>
+  <data name="fr_controlBar_ishowSpotsTip"><![CDATA[Show hotspots]]></data>
+  <data name="fr_controlBar_ihideSpotsTip"><![CDATA[Hide hotspots]]></data>
+  <data name="fr_controlBar_idisplayHelpTip"><![CDATA[Show help screen]]></data>
+  <data name="fr_controlBar_ihideHelpTip"><![CDATA[Hide help screen]]></data>
+  <data name="fr_controlBar_idisplayInfoTip"><![CDATA[Show information]]></data>
+  <data name="fr_controlBar_ihideInfoTip"><![CDATA[Hide information]]></data>
+  <data name="fr_controlBar_idisplayControlsTip"><![CDATA[Show controls]]></data>
+  <data name="fr_controlBar_ihideControlsTip"><![CDATA[Hide controls]]></data>
+  <data name="fr_controlBar_ictrlmodeDragTip"><![CDATA[Change control mode]]></data>
+  <data name="fr_controlBar_ictrlmodeMoveTip"><![CDATA[Change control mode]]></data>
+  <data name="fr_prevnexttheme2prevSceneTip"><![CDATA[Scène précédente]]></data>
+  <data name="fr_prevnexttheme2nextSceneTip"><![CDATA[Scène suivante]]></data>
+  <data name="fr_galleryplay_text"><![CDATA[Lecture / Pause]]></data>
+  <data name="fr_gallerynavprev_text"><![CDATA[Précédent]]></data>
+  <data name="fr_gallerynavnext_text"><![CDATA[Suivant]]></data>
+  <data name="fr_galleryfullscreen_text"><![CDATA[Plein écran]]></data>
+  <data name="fr_galleryclose_text"><![CDATA[Fermer]]></data>
+  <data name="fr_gallerypicture_title0"><![CDATA[]]></data>
+  <data name="fr_gallerypicture_caption0"><![CDATA[]]></data>
+  <data name="fr_gallerypicture_title1"><![CDATA[]]></data>
+  <data name="fr_gallerypicture_caption1"><![CDATA[]]></data>
+
+
+  <data name="fr_vr_setup_hmd0"><![CDATA[CHOIX DU HMD]]></data>
+  <data name="fr_vr_setup_advanced"><![CDATA[PARAMETRES AVANCES]]></data>
+  <data name="fr_vr_setup_title"><![CDATA[PARAMETRES WEB VR]]></data>
+  <data name="fr_vr_setup_dvn1"><![CDATA[Appareil:]]></data>
+  <data name="fr_vr_setup_siz1"><![CDATA[Taille de l&#39;écran:]]></data>
+  <data name="fr_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="fr_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="fr_vr_setup_hmd3"><![CDATA[Personnaliser]]></data>
+  <data name="fr_vr_setup_cal"><![CDATA[Calibrer le gyroscope]]></data>
+  <data name="fr_vr_setup_sav"><![CDATA[ENREGISTRER]]></data>
+  <data name="fr_vr_setup_rst"><![CDATA[REINITIALISER]]></data>
+  <data name="fr_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="fr_vr_setup_cls"><![CDATA[FERMER]]></data>
+  <data name="fr_vr_setup_m31"><![CDATA[PARAMETRES DU HMD]]></data>
+  <data name="fr_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="fr_vr_setup_dst1"><![CDATA[Distorsion:]]></data>
+  <data name="fr_vr_setup_d2tx"><![CDATA[Distorsion 2:]]></data>
+  <data name="fr_vr_setup_vig1"><![CDATA[Vignettage:]]></data>
+  <data name="fr_vr_setup_cac1"><![CDATA[Aberration chromatique:]]></data>
+  <data name="fr_vr_setup_olp1"><![CDATA[Recouvrement:]]></data>
+  <data name="fr_vr_setup_m35"><![CDATA[RETOUR]]></data>
+  <data name="fr_vr_setup_cb1"><![CDATA[GYROSCOPE]]></data>
+  <data name="fr_vr_setup_cb2"><![CDATA[Placer l&#39;appareil sur une surface plane et stable[br]puis tapez sur CALIBRER[br]pour corriger la dérive du gyroscope.]]></data>
+  <data name="fr_vr_setup_cb3"><![CDATA[CALIBRER]]></data>
+  <data name="fr_vr_setup_cb4"><![CDATA[REINITIALISER]]></data>
+  <data name="fr_vr_setup_cb5"><![CDATA[RETOUR]]></data>
+  <data name="fr_vr_setup_cb6"><![CDATA[Calibration en cours...]]></data>
+  <data name="fr_vr_setup_cb7"><![CDATA[Calibration réussie]]></data>
+  <data name="fr_vr_setup_cb8"><![CDATA[Echec de la calibration]]></data>
+  <data name="fr_vr_setup_unavailable"><![CDATA[Le mode VR[br]n&#39;est pas disponible sur cet appareil]]></data>
+
+
+
+
+  <data name="fr_pano10_description"><![CDATA[Entree de l'Universite nationale du Vietnam a Hanoi (UNVH).<div><br></div><div><h2><span id="Présentation">Présentation</span></h2><p>En 1993, l'université nationale du Viêt Nam de Hanoï est créée en fusionnant l'<a href="https://fr.wikipedia.org/wiki/Universit%C3%A9_de_Hano%C3%AF" title="Université de Hanoï">Université de Hanoï</a>, l'<a href="https://fr.wikipedia.org/w/index.php?title=Universit%C3%A9_des_sciences_de_l%27%C3%A9ducation_de_Hano%C3%AF&amp;action=edit&amp;redlink=1" title="Université des sciences de l'éducation de Hanoï (page inexistante)">université des sciences de l'éducation de Hanoï</a>&nbsp;<a href="https://en.wikipedia.org/wiki/Hanoi_National_University_of_Education" title="en:Hanoi National University of Education"><span title="Équivalent de l’article « université des sciences de l'éducation de Hanoï » dans une autre langue">(en)</span></a> et <a href="https://fr.wikipedia.org/w/index.php?title=Facult%C3%A9_des_langues_%C3%A9trang%C3%A8res&amp;action=edit&amp;redlink=1" title="Faculté des langues étrangères (page inexistante)">faculté des langues étrangères</a>&nbsp;<a href="https://en.wikipedia.org/wiki/College_of_Foreign_Languages" title="en:College of Foreign Languages"><span title="Équivalent de l’article « faculté des langues étrangères » dans une autre langue">(en)</span></a><sup id="cite_ref-1"><a href="https://fr.wikipedia.org/wiki/Universit%C3%A9_nationale_du_Vi%C3%AAt_Nam_de_Hano%C3%AF#cite_note-1">1</a></sup>.</p><h2><span id="Composantes">Composantes</span></h2><h3><span id="Campus">Campus</span></h3><p>L'université dispose de six campus&nbsp;:</p><ul><li>144 đường Xuân Thủy, Dịch Vọng Hậu, <a href="https://fr.wikipedia.org/wiki/District_de_Cau_Giay" title="District de Cau Giay">Cầu Giấy</a>,</li><li>334-336 đường Nguyễn Trãi, <a href="https://fr.wikipedia.org/wiki/District_de_Thanh_Xuan" title="District de Thanh Xuan">Thanh Xuân Trung</a></li><li>19 phố Lê Thánh Tông, <a href="https://fr.wikipedia.org/wiki/District_de_Hoan_Kiem" title="District de Hoan Kiem">Hoàn Kiếm</a></li><li>16 phố Hàng Chuối, <a href="https://fr.wikipedia.org/wiki/District_de_Hai_Ba_Trung" title="District de Hai Ba Trung">Hai Bà Trưng</a>, B7 bis phố Tạ Quang Bửu, <a href="https://fr.wikipedia.org/wiki/District_de_Hai_Ba_Trung" title="District de Hai Ba Trung">Hai Bà Trưng</a></li><li>Hòa Lạc, Thạch Hòa, <a href="https://fr.wikipedia.org/wiki/District_de_Thach_That" title="District de Thach That">Thạch Thất</a></li><li><a href="https://fr.wikipedia.org/wiki/District_de_Ba_Vi" title="District de Ba Vi">Ba Vì</a></li></ul><h3><span id="Facult.C3.A9s"></span><span id="Facultés">Facultés</span></h3></div>]]></data>
+
+
+
+  <data name="fr_pano21_description"><![CDATA[<b>Allee principale de l'UNVH</b><div><br></div><div>Vous pouvez voir a droite les boutiques de l'universite et a droite le parking des voitures du personel administratif....</div>]]></data>
+
+
+
+  <data name="fr_pano28_description"><![CDATA[<b>Allee vers l'Universite de droit</b><div><br></div><div>A gauche vous pouvez voir le monument .... representant ...</div>]]></data>
+
+
+
+
+  <data name="fr_spotpoint65_description"><![CDATA[<b>L'universite de droit de l'UNVH</b><div><br></div><div><br></div>]]></data>
+
+
+
+
+
+
+
+
+
+
+
+  <data name="fr_pano33_description"><![CDATA[<b>Institut francophone international (IFI)</b><div><br></div><div><b style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; text-align: justify; text-indent: 24.189px; widows: 2; background-color: rgb(255, 255, 255);">L'Institut Francophone International (IFI),</b><span lang="en-US" style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; text-align: justify; text-indent: 24.189px; widows: 2; background-color: rgb(255, 255, 255);"><b style="box-sizing: border-box;">&nbsp;</b></span><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; text-align: justify; text-indent: 24.189px; widows: 2; background-color: rgb(255, 255, 255);">une composante de</span><span lang="en-US" style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; text-align: justify; text-indent: 24.189px; widows: 2; background-color: rgb(255, 255, 255);">&nbsp;</span><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; text-align: justify; text-indent: 24.189px; widows: 2; background-color: rgb(255, 255, 255);">l'Université Nationale du Vietnam</span><span lang="en-US" style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; text-align: justify; text-indent: 24.189px; widows: 2; background-color: rgb(255, 255, 255);">,</span><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; text-align: justify; text-indent: 24.189px; widows: 2; background-color: rgb(255, 255, 255);">Hanoi a été créé le 18 novembre 2014 sur la base du développement de</span><span lang="en-US" style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; text-align: justify; text-indent: 24.189px; widows: 2; background-color: rgb(255, 255, 255);">&nbsp;</span><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; text-align: justify; text-indent: 24.189px; widows: 2; background-color: rgb(255, 255, 255);">l'Institut de la Francophonie pour l'Informatique (créé en 1997) et de l'intégration du Pôle Universitaire Français à Hanoi (PUF Hanoi, créé en 2006).</span></div><div><span lang="en-US" style="font-family: arial, helvetica, sans-serif; font-size: 14px; line-height: 19.5px; color: rgb(51, 51, 51); orphans: 2; text-align: justify; widows: 2; box-sizing: border-box; background-color: rgb(255, 255, 255);"><br></span></div><div><span lang="en-US" style="font-family: arial, helvetica, sans-serif; font-size: 14px; line-height: 19.5px; color: rgb(51, 51, 51); orphans: 2; text-align: justify; widows: 2; box-sizing: border-box; background-color: rgb(255, 255, 255);"><b style="line-height: normal; box-sizing: border-box; font-variant-ligatures: normal; text-indent: 24.189px;">L'historique&nbsp;</b></span></div><div><span lang="en-US" style="font-family: arial, helvetica, sans-serif; font-size: 14px; line-height: 19.5px; color: rgb(51, 51, 51); orphans: 2; text-align: justify; widows: 2; box-sizing: border-box; background-color: rgb(255, 255, 255);">L</span><span style="font-family: arial, helvetica, sans-serif; font-size: 14px; line-height: 19.5px; color: rgb(51, 51, 51); orphans: 2; text-align: justify; widows: 2; background-color: rgb(255, 255, 255);">e 2 juillet 1993</span><span lang="en-US" style="font-family: arial, helvetica, sans-serif; font-size: 14px; line-height: 19.5px; color: rgb(51, 51, 51); orphans: 2; text-align: justify; widows: 2; box-sizing: border-box; background-color: rgb(255, 255, 255);">:</span><span style="font-family: arial, helvetica, sans-serif; font-size: 14px; line-height: 19.5px; color: rgb(51, 51, 51); orphans: 2; text-align: justify; widows: 2; background-color: rgb(255, 255, 255);">&nbsp;</span><span style="font-family: arial, helvetica, sans-serif; font-size: 14px; line-height: 19.5px; color: rgb(51, 51, 51); orphans: 2; text-align: justify; widows: 2; background-color: rgb(255, 255, 255);">Le Gouvernement du Vietnam et l'AUPELF-UREF</span><span lang="en-US" style="font-family: arial, helvetica, sans-serif; font-size: 14px; line-height: 19.5px; color: rgb(51, 51, 51); orphans: 2; text-align: justify; widows: 2; box-sizing: border-box; background-color: rgb(255, 255, 255);">&nbsp;(</span><span style="font-family: arial, helvetica, sans-serif; font-size: 14px; line-height: 19.5px; color: rgb(51, 51, 51); orphans: 2; text-align: justify; widows: 2; background-color: rgb(255, 255, 255);">aujourd'hui l'Agence Universitaire de la Francophonie), ont signé la convention relative à la mise en oeuvre du projet d'Institut Francophone d'Informatique;</span></div><div><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; text-align: justify; text-indent: 24.189px; widows: 2; background-color: rgb(255, 255, 255);"><ul style="box-sizing: border-box; margin-top: 0px; margin-bottom: 9px; list-style: none; font-family: 'Times New Roman', Times, serif; font-size: 13px; font-variant-ligatures: normal; text-indent: 0px;"><li style="box-sizing: border-box;"><p align="justify" style="box-sizing: border-box; margin: 0px 0px 0cm; padding: 0px 0px 0px 5px; line-height: 19.5px;"><span style="box-sizing: border-box; font-size: 14px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;"><span lang="en-US" style="box-sizing: border-box;">Le</span>&nbsp;13 mai 1997<span lang="en-US" style="box-sizing: border-box;">: L</span>'<span lang="en-US" style="box-sizing: border-box;">I</span>nstitut de la Francophonie pour l'Informatique a été créé selon&nbsp;<span lang="en-US" style="box-sizing: border-box;">une&nbsp;</span>décision du Ministre de l'Education et de la Formation.&nbsp;<span lang="en-US" style="box-sizing: border-box;">Soutenu&nbsp;</span>financièrement par l'AUF,&nbsp;<span lang="en-US" style="box-sizing: border-box;">l’IFI&nbsp;</span>était alors situé à l'Institut Polytechnique de Hanoi et une de ses fonctions principales est de former en français des masters informatiques. Après 20 ans, cette formation constitue un label de renom national et international<span lang="en-US" style="box-sizing: border-box;">. Et&nbsp;</span>dans la recherche scientifique, l'IFI est connu comme un institut vietnamien ayant&nbsp;<span lang="en-US" style="box-sizing: border-box;">un</span>e&nbsp;<span lang="en-US" style="box-sizing: border-box;">l</span>on<span lang="en-US" style="box-sizing: border-box;">gue et efficace tradition&nbsp;</span>de coopération avec des partenaires de la Francophonie.</span></span></p></li><li style="box-sizing: border-box;"><p align="justify" style="box-sizing: border-box; margin: 0px 0px 0cm; padding: 0px 0px 0px 5px; line-height: 19.5px;"><span style="box-sizing: border-box; font-size: 14px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;"><span lang="en-US" style="box-sizing: border-box;">L</span>e 15 novembre 2010<span lang="en-US" style="box-sizing: border-box;">:&nbsp;</span>L'IFI a été transféré à l'Université Nationale du Vietnam-Hanoi.</span></span></p></li><li style="box-sizing: border-box;"><p align="justify" style="box-sizing: border-box; margin: 0px 0px 0cm; padding: 0px 0px 0px 5px; line-height: 19.5px;"><span style="box-sizing: border-box; font-size: 14px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">En 2012, le développement de l'IFI est marqué par l'intégration du PUF Hanoi</span></span></p></li></ul><p align="justify" style="box-sizing: border-box; margin: 0px 0px 0cm 120px; padding: 0px 0px 0px 5px; font-family: 'Times New Roman', Times, serif; font-size: 13px; font-variant-ligatures: normal; text-indent: 0px; line-height: 19.5px;"><span style="box-sizing: border-box; font-size: 14px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;"><span style="box-sizing: border-box; color: rgb(0, 100, 0);">Le PUF Hanoi a été créé<span lang="en-US" style="box-sizing: border-box;">&nbsp;</span>par le protocole d’accord signé&nbsp;<span lang="en-US" style="box-sizing: border-box;">en&nbsp;</span>2004 entre les gouvernements français et vietnamien, lors de la visite officielle au Vietnam du Président français Jacques Chirac en vue de fédérer les formations françaises délocalisées au Vietnam. De 2006 à 2014, le PUF Hanoi a animé 8 formations françaises délocalisées et 509 étudiants ont été diplômés. Le 23 janvier 2015, le PUF Hanoi a&nbsp;<span lang="en-US" style="box-sizing: border-box;">ét</span>é&nbsp;<span lang="en-US" style="box-sizing: border-box;">rebaptisé</span>&nbsp;Centre de gestion des formations relevant directement de l'IFI.</span></span></span></p><ul style="box-sizing: border-box; margin-top: 0px; margin-bottom: 9px; list-style: none; font-family: 'Times New Roman', Times, serif; font-size: 13px; font-variant-ligatures: normal; text-align: start;"><li style="box-sizing: border-box;"><p align="justify" style="box-sizing: border-box; margin: 0px 0px 0cm; padding: 0px 0px 0px 5px; line-height: 19.5px;"><span style="box-sizing: border-box; font-size: 14px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Le 18/11/2014<span lang="en-US" style="box-sizing: border-box;">: L</span>'Institut de la Francophonie pour l'Informatique a changé de nom en l'Institut Francophone International selon la décision no4299/QĐ-ĐHQGHN du Président de l'UNV Hanoi relatif à l'élargissement des domaines d'activités de l'IFI et à l'orientation de développement de l'IFI en un centre de recherche et de formation transdisciplinaire de haute qualité.</span></span></p></li></ul></span></div>]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+  <data name="fr_pano13_description"><![CDATA[<div><b style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: 'Times New Roman', Times, serif; font-size: 13px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);">L'administration de l'IFI</b></div><div><b style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: 'Times New Roman', Times, serif; font-size: 13px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"><br></b></div><b style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: 'Times New Roman', Times, serif; font-size: 13px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);">Le siège officiel de l'IFI&nbsp;</b><span style="color: rgb(51, 51, 51); font-family: 'Times New Roman', Times, serif; font-size: 13px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);">est situé au 2e étage du Bâtiment&nbsp; C3, Campus de l'Université Nationale de Hanoi, 144 Xuan Thuy, Cau Giay, Hanoi.</span><div><span style="color: rgb(51, 51, 51); font-family: 'Times New Roman', Times, serif; font-size: 13px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"><br></span></div><div style="orphans: 2; widows: 2;"><font color="#333333" face="Times New Roman, Times, serif"><span style="font-size: 13px; background-color: rgb(255, 255, 255);">I. La direction</span></font></div><div style="orphans: 2; widows: 2;"><font color="#333333" face="Times New Roman, Times, serif"><span style="font-size: 13px; background-color: rgb(255, 255, 255);"><br></span></font></div><div><span style="color: rgb(51, 51, 51); font-family: 'Times New Roman', Times, serif; font-size: 13px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"><p style="box-sizing: border-box; margin: 0px 0px 8px; padding-left: 5px; font-variant-ligatures: normal;"><strong style="box-sizing: border-box;">Directeur</strong></p><p style="box-sizing: border-box; margin: 0px 0px 8px; padding-left: 5px; font-variant-ligatures: normal;">Dr. Ngô Tự Lập</p><p style="box-sizing: border-box; margin: 0px 0px 8px; padding-left: 5px; font-variant-ligatures: normal;">Tel: (84-24) 3745 0173 + 368</p><p style="box-sizing: border-box; margin: 0px 0px 8px; padding-left: 5px; font-variant-ligatures: normal;">(84-24) 37957938</p><p style="box-sizing: border-box; margin: 0px 0px 8px; padding-left: 5px; font-variant-ligatures: normal;">Email:&nbsp;<a href="mailto:lapnt@vnu.edu.vn" style="box-sizing: border-box; background-color: transparent; color: rgb(7, 66, 178); text-decoration: none;">lapnt@vnu.edu.vn</a></p><p style="box-sizing: border-box; margin: 0px 0px 8px; padding-left: 5px; color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;"><strong style="box-sizing: border-box; font-weight: bold;">Directeur adjoint</strong></p><p style="box-sizing: border-box; margin: 0px 0px 8px; padding-left: 5px; color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;">Dr. Hồ Tường Vinh</p><p style="box-sizing: border-box; margin: 0px 0px 8px; padding-left: 5px; color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;">Tel: (84-24) 3745 0173 + 369</p><p style="box-sizing: border-box; margin: 0px 0px 8px; padding-left: 5px; font-variant-ligatures: normal;"></p><p style="box-sizing: border-box; margin: 0px 0px 8px; padding-left: 5px; color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;">Email:&nbsp;vinhht@vnu.edu.vn</p><p style="box-sizing: border-box; margin: 0px 0px 8px; padding-left: 5px; color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;"><strong style="box-sizing: border-box;"><br></strong></p><p style="box-sizing: border-box; margin: 0px 0px 8px; padding-left: 5px; color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;"><strong style="box-sizing: border-box;">II. SERVICES ET LABORATOIRES</strong></p><p style="box-sizing: border-box; margin: 0px 0px 8px; padding-left: 5px; color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;"><strong style="box-sizing: border-box; font-weight: bold;">SERVICE ADMINISTRATIF&nbsp;</strong></p><p style="box-sizing: border-box; margin: 0px 0px 8px; padding-left: 5px; color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;"><strong style="box-sizing: border-box; font-weight: bold;">Adresse:</strong></p><p style="box-sizing: border-box; margin: 0px 0px 8px; padding-left: 5px; color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;"></p><p style="box-sizing: border-box; margin: 0px 0px 8px; padding-left: 5px; color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;">≠ 201, Bât. C3, 144 Xuân Thuỷ, Cầu Giấy, Hà Nội</p><p style="box-sizing: border-box; margin: 0px 0px 8px; padding-left: 5px; color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;"><br></p><p style="box-sizing: border-box; margin: 0px 0px 8px; padding-left: 5px; color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;"></p><table border="1" cellpadding="0" cellspacing="0" width="671" style="box-sizing: border-box; border-collapse: collapse; border-spacing: 0px; background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; width: 172px; height: 10px;"><p style="box-sizing: border-box; margin: 0px 0px 8px; padding-left: 5px;"><strong style="box-sizing: border-box; font-weight: bold;"><br>CENTRE DE GESTION DES PROGRAMMES UNIVERSITAIRES ET DES FORMATIONS CONTINUES</strong><span>&nbsp;</span><strong style="box-sizing: border-box; font-weight: bold;">(PUF)</strong></p><p style="box-sizing: border-box; margin: 0px 0px 8px; padding-left: 5px;"><strong style="box-sizing: border-box; font-weight: bold;">Adresse:</strong></p><p style="box-sizing: border-box; margin: 0px 0px 8px; padding-left: 5px;">≠ 203, Bât. C3, 144 Xuân Thuỷ, Cầu Giấy, Hà Nội</p></td></tr></tbody></table></span></div>]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <data name="fr_pano27_description"><![CDATA[<span style="color: rgb(51, 51, 51); font-family: 'Times New Roman', Times, serif; font-size: 13px; font-variant-ligatures: normal; orphans: 2; text-align: justify; widows: 2; background-color: rgb(255, 255, 255);">Les salles de classe de l'IFI sont équipées du projecteur, du climatiseur, du système sonore de bonne qualité avec des ordinateurs connectés à l'internet sont mises à la disposition des étudiants et des enseignants.</span>]]></data>
+
+
+</krpano>
